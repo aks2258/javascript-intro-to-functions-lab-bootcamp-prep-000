@@ -16,4 +16,6 @@ function logWhisper(string){
 
 function sayHiToGrandma(string){
   string="I love you Grandma"
+  var respond = "I love you, too"
+  return respond
 }
